@@ -9,3 +9,4 @@
 8-firstdelete - deletes file
 9-firstdirdeletion - deletes directory
 10-back - changes the working directory to the previous one
+11-lists - lists all files in long format in several directories
