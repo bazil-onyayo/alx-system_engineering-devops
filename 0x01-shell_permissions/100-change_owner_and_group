@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp vincent:school *
+chown vincent:school *
