@@ -1,2 +1,2 @@
-Learning Shell Basics
-Learning Shell Permissions
+Learning Shell Basics.  
+Learning Shell Permissions.  
